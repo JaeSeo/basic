@@ -1,0 +1,3 @@
+hello: 안녕
+good: 좋은
+lucky: 운 좋은
